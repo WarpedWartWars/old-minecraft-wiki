@@ -1,4 +1,4 @@
-﻿* [1 Both single and multiplayer Minecraft (SSP and SMP)](#Both_single_and_multiplayer_Minecraft_.28SSP_and_SMP.29)
+* [1 Both single and multiplayer Minecraft (SSP and SMP)](#Both_single_and_multiplayer_Minecraft_.28SSP_and_SMP.29)
   * [1.1 General](#General)
   * [1.2 Audio](#Audio)
   * [1.3 Terrain Generation](#Terrain_Generation)
