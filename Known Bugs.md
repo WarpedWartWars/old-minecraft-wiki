@@ -108,7 +108,7 @@ Bugs and feature requests can now be logged at [Get Satisfaction](/web/201109021
 ## Both single and multiplayer Minecraft (SSP and SMP)
 ### General
 * Whenever some Windows users lock their computers by either using "Start -&gt; Lock " or a keyboard shortcut, and then log back in, the game window will be completely black. This can only be fixed by closing the engine or toggling the game between maximized and windowed settings.
-* Occasionally, the level.dat file is re-written, causing you to lose your held items, and generate a new spawn. This will in general corrupt *both* the level.dat and the level.dat_old file, and if you donâ€™t have a backup or the back up is corrupt too and were using an automatically generated seed, the seed will be lost forever (this will cause strange terrain generation when you will explore new parts of the world).
+* Occasionally, the level.dat file is re-written, causing you to lose your held items, and generate a new spawn. This will in general corrupt *both* the level.dat and the level.dat_old file, and if you don't have a backup or the back up is corrupt too and were using an automatically generated seed, the seed will be lost forever (this will cause strange terrain generation when you will explore new parts of the world).
 * Sometimes you can see through everything; this randomly happens on all games on all platforms. Toggling the fog distance will change everything back to normal (Default key is F).
 * ATI users with 6.x drivers will not be able to run the game at all.
 * Users with ATI x300/x600/x900 series graphics cards will not be able to play the game. It will freeze before the Mojang splash screen then display the "bad graphics card" error.
