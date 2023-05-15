@@ -107,7 +107,7 @@ Bugs and feature requests can now be logged at [Get Satisfaction](/web/201109021
 
 ## Both single and multiplayer Minecraft (SSP and SMP)
 ### General
-* Whenever some Windows users lock their computers by either using "Start -&gt; Lock " or a keyboard shortcut, and then log back in, the game window will be completely black. This can only be fixed by closing the engine or toggling the game between maximized and windowed settings.
+* Whenever some Windows users lock their computers by either using "Start -> Lock " or a keyboard shortcut, and then log back in, the game window will be completely black. This can only be fixed by closing the engine or toggling the game between maximized and windowed settings.
 * Occasionally, the level.dat file is re-written, causing you to lose your held items, and generate a new spawn. This will in general corrupt *both* the level.dat and the level.dat_old file, and if you don't have a backup or the back up is corrupt too and were using an automatically generated seed, the seed will be lost forever (this will cause strange terrain generation when you will explore new parts of the world).
 * Sometimes you can see through everything; this randomly happens on all games on all platforms. Toggling the fog distance will change everything back to normal (Default key is F).
 * ATI users with 6.x drivers will not be able to run the game at all.
@@ -118,7 +118,7 @@ Bugs and feature requests can now be logged at [Get Satisfaction](/web/201109021
 * Players stuck in walls (or whose lower-half is in solid block) will slide towards the nearest gap; however, if the player moves against this force, he will repeatedly slide to .21 and then walk back to .11. The player will not slide beyond .3 to be completely out of the wall.
 * Rarely, the game can think you are 1 block high when in water, and permits walking through water as if it was air. Your view will not be affected in both first and third person, but if you are in a one block deep water, the underwater screen shows and you may drown.
 * "Login failed" in Ubuntu. When several keyboard mappings are configured for the user, the username input uses the current mapping whereas the password input uses the default mapping, and leads to "Login failed" errors.
-* In the login fields, &lt;Tab&gt; or &lt;Shift&gt;+&lt;Tab&gt; does NOT let the user navigate between the "Username" and "Password" fields.
+* In the login fields, <Tab> or <Shift>+<Tab> does NOT let the user navigate between the "Username" and "Password" fields.
 * In Multiplayer, a player can see 2 players, one is moving and one is not moving, it happens when a player teleports to somebody suddenly, it makes lots of lag and then you will see another player from where the player teleported.
 * If you tab out without having a GUI open (Esc/Inv) it will act as if shift is held down when clicking on items.
 
@@ -723,8 +723,8 @@ Bugs and feature requests can now be logged at [Get Satisfaction](/web/201109021
 ### [Redstone](/web/20110902163320/http://www.minecraftwiki.net/wiki/Redstone)
 * As of Beta 1.6, the maximum size of a Redstone circuit is limited by the new server option view-distance, which makes HUGE circuits unable to work, except other players keep necessary chunks active.
 * Since Beta 1.4, pulsars do not work, and many circuits have become glitchy in SMP.
-* Sometimes after waiting long enough (10â€“20 minutes?) a pulsar will start to work.
-* Giving redstone torches short pulses (via edge detection) causes them burn out, even if there is a pause &gt; 5s between pulses.
+* Sometimes after waiting long enough (10-20 minutes?) a pulsar will start to work.
+* Giving redstone torches short pulses (via edge detection) causes them burn out, even if there is a pause > 5s between pulses.
 * As well as repeaters, torches lock their state randomly when being wired for clock generating.
 * While destroying a block, quickly applying redstone repeatedly will cause you to see textures of different blocks. Also, quickly removing redstone AND attempting to mine the block it is on has a small chance to make it show the glitched grass texture on top of the block. More chance of this occurring on a dirt tile ( unconfirmed ).
 * Redstone Repeaters occasionally become locked if their chunk becomes inactive while they are in their "on" state.
